@@ -8,5 +8,7 @@
   },
   "dependencies": {
     "node-telegram-bot-api": "^0.53.1"
-  }
+  },
+  "author": "DevXkirito",
+  "license": "MIT"
 }
